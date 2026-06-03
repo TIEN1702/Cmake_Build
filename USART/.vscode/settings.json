@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f411xe.h": "c",
+        "usart.h": "c",
+        "type_traits": "c"
+    }
+}

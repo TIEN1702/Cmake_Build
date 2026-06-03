@@ -1,0 +1,330 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+                              CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj (__errno)
+c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                              c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .text.Clock_Init
+                0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .text.PortD_EnableBus
+                0x00000000       0x20 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .text.PortA_EnableBus
+                0x00000000       0x30 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .text.Led_Control
+                0x00000000       0x18 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .text.startup.main
+                0x00000000       0x28 CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._read    0x00000000       0x1c CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._close   0x00000000        0x8 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xc CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._open    0x00000000        0xc CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._times   0x00000000        0x8 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xc CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x44 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .text.Usart2_Enable_Bus_Pin
+                0x00000000       0x50 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .text.Usart2_Init
+                0x00000000       0x40 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/clock.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/led.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/syscalls.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/sysmem.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/tempCodeRunnerFile.c.obj
+LOAD CMakeFiles/stm32_cmake_project.elf.dir/Src/usart.c.obj
+START GROUP
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000        0x0
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+                0x08000000                . = ALIGN (0x4)
+
+.text           0x08000000       0x58
+                0x08000000                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000000       0x40 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ *(.glue_7)
+ .glue_7        0x08000040        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000040        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000040        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08000040        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000040                _init
+ .init          0x08000044        0x8 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0800004c        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0800004c                _fini
+ .fini          0x08000050        0x8 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08000058                . = ALIGN (0x4)
+                0x08000058                _etext = .
+
+.vfp11_veneer   0x08000058        0x0
+ .vfp11_veneer  0x08000058        0x0 linker stubs
+
+.v4_bx          0x08000058        0x0
+ .v4_bx         0x08000058        0x0 linker stubs
+
+.iplt           0x08000058        0x0
+ .iplt          0x08000058        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x08000058        0x0
+ .rel.iplt      0x08000058        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08000058        0x0
+                0x08000058                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x08000058                . = ALIGN (0x4)
+
+.ARM.extab      0x08000058        0x0
+                0x08000058                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000058                . = ALIGN (0x4)
+
+.ARM            0x08000058        0x0
+                0x08000058                . = ALIGN (0x4)
+                0x08000058                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000058                __exidx_end = .
+                0x08000058                . = ALIGN (0x4)
+
+.preinit_array  0x08000058        0x0
+                0x08000058                . = ALIGN (0x4)
+                0x08000058                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000058                PROVIDE (__preinit_array_end = .)
+                0x08000058                . = ALIGN (0x4)
+
+.init_array     0x08000058        0x4
+                0x08000058                . = ALIGN (0x4)
+                0x08000058                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000058        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0800005c                PROVIDE (__init_array_end = .)
+                0x0800005c                . = ALIGN (0x4)
+
+.fini_array     0x0800005c        0x4
+                0x0800005c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800005c        0x4 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08000060                . = ALIGN (0x4)
+                0x08000060                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x08000060
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x08000060
+ .igot.plt      0x20000000        0x0 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000000                . = ALIGN (0x4)
+
+.bss            0x20000000       0x1c load address 0x08000060
+                0x20000000                _sbss = .
+                0x20000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000000       0x1c c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x2000001c                . = ALIGN (0x4)
+                0x2000001c                _ebss = .
+                0x2000001c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000001c      0x604 load address 0x08000060
+                0x20000020                . = ALIGN (0x8)
+ *fill*         0x2000001c        0x4 
+                [!provide]                PROVIDE (end = .)
+                0x20000020                PROVIDE (_end = .)
+                0x20000220                . = (. + _Min_Heap_Size)
+ *fill*         0x20000020      0x200 
+                0x20000620                . = (. + _Min_Stack_Size)
+ *fill*         0x20000220      0x400 
+                0x20000620                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x1e c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(D:\My_Repositories\Cmake_Build\USART\output\stm32_cmake_project.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/gnu_arm_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
